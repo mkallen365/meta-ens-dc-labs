@@ -1,0 +1,4 @@
+clab-*/
+**/.containerlab/
+*.log
+__pycache__/
